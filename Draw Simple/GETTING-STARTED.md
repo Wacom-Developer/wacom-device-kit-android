@@ -10,7 +10,7 @@ To build the sample application:
 
 1. Open the Android Studio IDE.
 1. Load the sample code project.
-1. Select ```Run``` >````Run 'app'``` from the menu bar to launch the program.
+1. Select ```Run``` > ```Run 'app'``` from the menu bar to launch the program.
 
 ## See Also
 [App Development](https://developer-docs.wacom.com/android-digitizer/docs/app-development) - Information about how to use the Android APIs
