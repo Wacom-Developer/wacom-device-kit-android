@@ -1,6 +1,6 @@
 # Readme
 
-This repository contains the following sample code examples:
+This repository contains the following sample code:
 
 |Sample Code				|Description			|
 |---						|---					|
