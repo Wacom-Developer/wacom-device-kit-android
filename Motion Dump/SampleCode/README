@@ -1,0 +1,8 @@
+Wacom MotionDump Sample App
+
+This sample app implements a simple logging application that dumps 
+details about MotionEvents as they are reported.
+
+The app provides details on the various axes reported by a device as 
+they are updated in real-time. It may be used to get an idea of how to 
+access these attributes, and what their values are on real hardware.
