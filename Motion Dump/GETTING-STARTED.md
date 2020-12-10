@@ -14,7 +14,7 @@ To build the sample application:
 
 ## See Also
 
-[App Development](https://developer-docs.wacom.com/android-digitizer/docs/app-development) - Information about how to use the Android APIs
+[App Development](https://developer-docs.wacom.com/android-digitizer-tablets/docs/app-development) - Information about how to use the Android APIs
 
 ## Where to get help
 If you have questions about the sample application or any of the setup process, please visit our Support page at: https://developer.wacom.com/developer-dashboard/support

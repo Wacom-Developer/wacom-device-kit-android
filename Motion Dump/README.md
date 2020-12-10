@@ -11,7 +11,7 @@ The lower portion of the UI may contain several columns with different "index" v
 ![motion dump application user interface image](./Media/sc-gs-motion-dump-sample.png)
 
 ## See also
-[App Development](https://developer-docs.wacom.com/android-digitizer/docs/app-development) - for an overview of the Android APIs
+[App Development](https://developer-docs.wacom.com/android-digitizer-tablets/docs/app-development) - for an overview of the Android APIs
 
 ## Where to get help
 If you have questions about this demo, please visit our support page: https://developer.wacom.com/developer-dashboard/support.
