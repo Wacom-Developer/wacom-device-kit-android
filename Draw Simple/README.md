@@ -9,7 +9,11 @@ The application consists of three main classes: ```Brush```, ```CanvasView```, a
 ![Draw Simple application user interface image](./Media/sc-rm-draw-simple.png)
 
 ## See also
-[App Development](https://developer-docs.wacom.com/android-digitizer-tablets/docs/app-development) - Overview of the Android APIs
+[Android - Basics](android-basics) – Details on tablet specific Android API
+
+[Android - Reference](android-reference) – Links to the complete Android API packages and classes
+
+[Android - FAQs](android-faqs) – Useful Android programming tips
 
 ## Where to get help
 If you have questions about this demo, please visit our support page: https://developer.wacom.com/developer-dashboard/support.
