@@ -13,7 +13,11 @@ To build the sample application:
 1. Select ```Run``` > ```Run 'app'``` from the menu bar to launch the program.
 
 ## See Also
-[App Development](https://developer-docs.wacom.com/android-digitizer-tablets/docs/app-development) - Information about how to use the Android APIs
+[Android - Basics](android-basics) – Details on tablet specific Android API
+
+[Android - Reference](android-reference) – Links to the complete Android API packages and classes
+
+[Android - FAQs](android-faqs) – Useful Android programming tips
 
 ## Where to get help
 If you have questions about the sample application or any of the setup process, please visit our Support page at: https://developer.wacom.com/developer-dashboard/support
