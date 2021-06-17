@@ -14,10 +14,11 @@ To build the sample application:
 
 ## See Also
 
-[Android - Basics](android-basics) – Details on tablet specific Android API
+[Android - Basics](https://developer-docs.wacom.com/intuos-cintiq-business-tablets/docs/android-basics) – Details on tablet specific Android API
 
-[Android - Reference](android-reference) – Links to the complete Android API packages and classes
+[Android - Reference](https://developer-docs.wacom.com/intuos-cintiq-business-tablets/docs/android-reference) – Links to the complete Android API packages and classes
 
-[Android - FAQs](android-faqs) – Useful Android programming tips
+[Android - FAQs](https://developer-docs.wacom.com/intuos-cintiq-business-tablets/docs/android-faqs) – Useful Android programming tips  
+
 ## Where to get help
 If you have questions about the sample application or any of the setup process, please visit our Support page at: https://developer.wacom.com/developer-dashboard/support
