@@ -15,7 +15,7 @@ The lower portion of the UI may contain several columns with different "index" v
 
 [Android - Reference](https://developer-docs.wacom.com/intuos-cintiq-business-tablets/docs/android-reference) – Links to the complete Android API packages and classes
 
-[Android - FAQs](https://developer-docs.wacom.com/intuos-cintiq-business-tablets/docs/android-faqs) – Useful Android programming tips
+[Android - FAQs](https://developer-support.wacom.com/hc/en-us/articles/12845697299351-Android) – Useful Android programming tips
 
 ## Where to get help
 If you have questions about this demo, please visit our support page: https://developer.wacom.com/developer-dashboard/support.
