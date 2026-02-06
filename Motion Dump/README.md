@@ -11,9 +11,9 @@ The lower portion of the UI may contain several columns with different "index" v
 ![motion dump application user interface image](./Media/sc-gs-motion-dump-sample.png)
 
 ## See also
-[Android - Basics](https://developer-docs.wacom.com/intuos-cintiq-business-tablets/docs/android-basics) – Details on tablet specific Android API
+[Android - Basics](https://developer-docs.wacom.com/docs/icbt/android/overview/android-basics/) – Details on tablet specific Android API
 
-[Android - Reference](https://developer-docs.wacom.com/intuos-cintiq-business-tablets/docs/android-reference) – Links to the complete Android API packages and classes
+[Android - Reference](https://developer-docs.wacom.com/docs/icbt/android/overview/android-reference/) – Links to the complete Android API packages and classes
 
 [Android - FAQs](https://developer-support.wacom.com/hc/en-us/articles/12845697299351-Android) – Useful Android programming tips
 
